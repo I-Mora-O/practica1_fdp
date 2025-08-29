@@ -1,0 +1,3 @@
+Yo considero que la inteligencia artificial en la ingeniería eléctrica y electrónica puede aplicarse en la optimización de redes eléctricas inteligentes, el mantenimiento predictivo de equipos, el diseño de circuitos y la gestión de energías renovables;
+gracias a su capacidad para analizar grandes volúmenes de datos y predecir comportamientos, permite detectar fallas antes de que ocurran, mejorar la eficiencia de los sistemas y acelerar el desarrollo de soluciones, convirtiéndose en una herramienta que
+potencia el trabajo del ingeniero y facilita la toma de decisiones más rápidas y seguras.
